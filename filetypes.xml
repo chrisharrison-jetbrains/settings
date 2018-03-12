@@ -8,6 +8,7 @@
       <mapping pattern="cc" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
