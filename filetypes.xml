@@ -9,6 +9,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
+      <mapping pattern="queue-url" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
