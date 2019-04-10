@@ -4,16 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.p</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grap</mask>
       <mask>*.graph</mask>
       <mask>*.graphq</mask>
       <mask>*.graphql</mask>
-      <mask>*.graphqls</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>.yml</mask>
@@ -34,6 +29,11 @@
       <mask>*/Handlers</mask>
       <mask>*/Handlers/</mask>
       <mask>*/Handlers/*</mask>
+      <mask>*.graphqls</mask>
+      <mask>.php</mask>
+      <mask>.ph</mask>
+      <mask>.p</mask>
+      <mask>.</mask>
     </recentFileMasks>
   </component>
 </application>
