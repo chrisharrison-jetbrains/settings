@@ -1,14 +1,16 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.graphqls" />
     <recentFileMasks>
       <mask>*.gra</mask>
       <mask>*.grap</mask>
       <mask>*.graph</mask>
       <mask>*.graphq</mask>
-      <mask>*.graphql</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>.yml</mask>
@@ -29,11 +31,12 @@
       <mask>*/Handlers</mask>
       <mask>*/Handlers/</mask>
       <mask>*/Handlers/*</mask>
-      <mask>*.graphqls</mask>
       <mask>.php</mask>
       <mask>.ph</mask>
       <mask>.p</mask>
       <mask>.</mask>
+      <mask>*.graphql</mask>
+      <mask>*.graphqls</mask>
     </recentFileMasks>
   </component>
 </application>
