@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.gra</mask>
       <mask>*.grap</mask>
       <mask>*.graph</mask>
       <mask>*.graphq</mask>
       <mask>*.ym</mask>
-      <mask>*.yml</mask>
       <mask>.yml</mask>
       <mask>e.yml</mask>
       <mask>eve.yml</mask>
@@ -34,6 +34,7 @@
       <mask>.</mask>
       <mask>*.graphql</mask>
       <mask>*.graphqls</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
