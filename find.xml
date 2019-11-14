@@ -7,7 +7,6 @@
       <mask>*.gra</mask>
       <mask>*.grap</mask>
       <mask>*.graph</mask>
-      <mask>*.ym</mask>
       <mask>.yml</mask>
       <mask>e.yml</mask>
       <mask>eve.yml</mask>
@@ -30,10 +29,11 @@
       <mask>.ph</mask>
       <mask>.p</mask>
       <mask>.</mask>
-      <mask>*.yml</mask>
       <mask>*.graphq</mask>
       <mask>*.graphql</mask>
       <mask>*.graphqls</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
