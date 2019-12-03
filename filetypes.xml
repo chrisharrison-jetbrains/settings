@@ -4,13 +4,13 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".test.php.swp" type="PLAIN_TEXT" />
       <mapping pattern=".env.build" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="accessToken" type="PLAIN_TEXT" />
       <mapping pattern="cc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="accessToken" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="definition,yml" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="cache-6" type="PLAIN_TEXT" />
       <mapping ext="blade" type="PLAIN_TEXT" />
